@@ -3,6 +3,9 @@ import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 
 class UserImagePicker extends StatefulWidget {
+  UserImagePicker(this.imagepickFn);
+  final void Function(File pickedImage) imagepickFn;
+
   @override
   _UserImagePickerState createState() => _UserImagePickerState();
 }
@@ -13,15 +16,13 @@ class _UserImagePickerState extends State<UserImagePicker> {
   void _pickImage() async {
     final pickedFile = await picker.getImage(source: ImageSource.gallery);
     setState(() {
-            if (pickedFile != null) {
+      if (pickedFile != null) {
         _image = File(pickedFile.path);
       } else {
         print('No image selected.');
       }
-
-
     });
-  
+    widget.imagepickFn(_image);
   }
 
   @override
@@ -29,12 +30,9 @@ class _UserImagePickerState extends State<UserImagePicker> {
     return Column(
       children: [
         CircleAvatar(
-          radius: 43,
-          backgroundImage: _image == null ? 
-           null :
-          FileImage(_image)
-          
-        ),
+            radius: 43,
+            backgroundColor: Colors.grey,
+            backgroundImage: _image == null ? null : FileImage(_image)),
         FlatButton.icon(
             onPressed: _pickImage,
             textColor: Theme.of(context).primaryColor,
