@@ -6,6 +6,8 @@ INJECTED from D:\flutter projects\chatApp\android\app\src\main\AndroidManifest.x
 INJECTED from D:\flutter projects\chatApp\android\app\src\main\AndroidManifest.xml:1:1-47:12
 MERGED from D:\flutter projects\chatApp\android\app\src\main\AndroidManifest.xml:1:1-47:12
 MERGED from [:firebase_auth] D:\flutter projects\chatApp\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:image_picker] D:\flutter projects\chatApp\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-22:12
+MERGED from [:flutter_plugin_android_lifecycle] D:\flutter projects\chatApp\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
 MERGED from [:cloud_firestore] D:\flutter projects\chatApp\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
 MERGED from [:firebase_core] D:\flutter projects\chatApp\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
 MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\5e44f643e5d1e68aa83236c46ded5dc3\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
@@ -32,16 +34,17 @@ MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\hp\.gra
 MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\52aa99b1dafefeb265871aa9c67401a0\firebase-measurement-connector-18.0.0\AndroidManifest.xml:17:1-25:12
 MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\db5e47157b92221853207e03d21d0880\jetified-play-services-basement-17.1.0\AndroidManifest.xml:17:1-28:12
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\2a043d3f5fd22167e021cf30806b5be9\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.activity:activity:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\77b21b9d8f1dd2618c7e8ee5d418ed1b\activity-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f333fff089a65883db4369ab04866b77\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\be0a3d96e69806a17dd3ec618a610bb9\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f4b054b692c01d60cfa1b25a7210754e\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\77b21b9d8f1dd2618c7e8ee5d418ed1b\activity-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\92d66a8a818f8339807e81b13dd23ea6\customview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core:1.1.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\44b1706abe044cd42dcac5be863451ed\core-1.1.0\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\51f161b525b4fd1920f8d7a53d6b6ea8\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\1db922c1d196d14487179d2aa1e2900e\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\abee5b37dba13f092deef02b35959943\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\7ec00a50b8c8eec8bc982dc94cdd72df\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\e02f6b726ff9abb106836a2f2244fcf8\exifinterface-1.3.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\15a45fc9279cd414e7bc73393fa60ccf\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8b41debddbd50aa307dba0f241fef08b\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\03e26697d0a6e1eb3912dab2156c8fb7\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -72,6 +75,8 @@ application
 ADDED from D:\flutter projects\chatApp\android\app\src\main\AndroidManifest.xml:8:5-46:19
 MERGED from [:firebase_auth] D:\flutter projects\chatApp\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
 MERGED from [:firebase_auth] D:\flutter projects\chatApp\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:image_picker] D:\flutter projects\chatApp\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-20:19
+MERGED from [:image_picker] D:\flutter projects\chatApp\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-20:19
 MERGED from [:cloud_firestore] D:\flutter projects\chatApp\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
 MERGED from [:cloud_firestore] D:\flutter projects\chatApp\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
 MERGED from [:firebase_core] D:\flutter projects\chatApp\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
@@ -172,6 +177,10 @@ INJECTED from D:\flutter projects\chatApp\android\app\src\main\AndroidManifest.x
 INJECTED from D:\flutter projects\chatApp\android\app\src\main\AndroidManifest.xml
 MERGED from [:firebase_auth] D:\flutter projects\chatApp\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:firebase_auth] D:\flutter projects\chatApp\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] D:\flutter projects\chatApp\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] D:\flutter projects\chatApp\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] D:\flutter projects\chatApp\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] D:\flutter projects\chatApp\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:cloud_firestore] D:\flutter projects\chatApp\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:cloud_firestore] D:\flutter projects\chatApp\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:firebase_core] D:\flutter projects\chatApp\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
@@ -224,14 +233,14 @@ MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\hp\.
 MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\db5e47157b92221853207e03d21d0880\jetified-play-services-basement-17.1.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\2a043d3f5fd22167e021cf30806b5be9\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\2a043d3f5fd22167e021cf30806b5be9\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\77b21b9d8f1dd2618c7e8ee5d418ed1b\activity-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\77b21b9d8f1dd2618c7e8ee5d418ed1b\activity-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f333fff089a65883db4369ab04866b77\viewpager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f333fff089a65883db4369ab04866b77\viewpager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\be0a3d96e69806a17dd3ec618a610bb9\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\be0a3d96e69806a17dd3ec618a610bb9\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f4b054b692c01d60cfa1b25a7210754e\loader-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\f4b054b692c01d60cfa1b25a7210754e\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\77b21b9d8f1dd2618c7e8ee5d418ed1b\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\77b21b9d8f1dd2618c7e8ee5d418ed1b\activity-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\92d66a8a818f8339807e81b13dd23ea6\customview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\92d66a8a818f8339807e81b13dd23ea6\customview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core:1.1.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\44b1706abe044cd42dcac5be863451ed\core-1.1.0\AndroidManifest.xml:20:5-22:41
@@ -244,6 +253,8 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\hp\.gradle\ca
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\abee5b37dba13f092deef02b35959943\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\7ec00a50b8c8eec8bc982dc94cdd72df\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\7ec00a50b8c8eec8bc982dc94cdd72df\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\e02f6b726ff9abb106836a2f2244fcf8\exifinterface-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\e02f6b726ff9abb106836a2f2244fcf8\exifinterface-1.3.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\15a45fc9279cd414e7bc73393fa60ccf\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\15a45fc9279cd414e7bc73393fa60ccf\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\hp\.gradle\caches\transforms-2\files-2.1\8b41debddbd50aa307dba0f241fef08b\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
@@ -318,6 +329,30 @@ ADDED from [:firebase_auth] D:\flutter projects\chatApp\build\firebase_auth\inte
 		ADDED from [:firebase_auth] D:\flutter projects\chatApp\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
 	android:name
 		ADDED from [:firebase_auth] D:\flutter projects\chatApp\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-122
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:image_picker] D:\flutter projects\chatApp\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from [:image_picker] D:\flutter projects\chatApp\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:image_picker] D:\flutter projects\chatApp\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from [:image_picker] D:\flutter projects\chatApp\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-78
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] D:\flutter projects\chatApp\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:9-19:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] D:\flutter projects\chatApp\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-47
+	android:authorities
+		ADDED from [:image_picker] D:\flutter projects\chatApp\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-74
+	android:exported
+		ADDED from [:image_picker] D:\flutter projects\chatApp\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [:image_picker] D:\flutter projects\chatApp\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] D:\flutter projects\chatApp\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-18:75
+	android:resource
+		ADDED from [:image_picker] D:\flutter projects\chatApp\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-72
+	android:name
+		ADDED from [:image_picker] D:\flutter projects\chatApp\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:17:17-67
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.cloudfirestore.FlutterFirebaseAppRegistrar
 ADDED from [:cloud_firestore] D:\flutter projects\chatApp\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
 	android:value

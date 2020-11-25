@@ -136,6 +136,10 @@
         "source": "C:\\Users\\hp\\.gradle\\caches\\transforms-2\\files-2.1\\44b1706abe044cd42dcac5be863451ed\\core-1.1.0\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
+        "merged": "D:\\flutter projects\\chatApp\\build\\app\\intermediates\\res\\merged\\debug\\xml_flutter_image_picker_file_paths.xml.flat",
+        "source": "D:\\flutter projects\\chatApp\\build\\image_picker\\intermediates\\packaged_res\\debug\\xml\\flutter_image_picker_file_paths.xml"
+    },
+    {
         "merged": "D:\\flutter projects\\chatApp\\build\\app\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light_focused.xml.flat",
         "source": "C:\\Users\\hp\\.gradle\\caches\\transforms-2\\files-2.1\\12b2a981af48a4d34665a895e1a50203\\play-services-base-17.1.0\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
     },
